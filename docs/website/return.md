@@ -17,7 +17,7 @@ Custom reporters technically don't let you do anything you couldn't do before --
 
 <img src={require('./assets/repeat-old.png').default} style={{height: '429px'}} />
 
-This works, but it's pretty ugly, and will only get worse as you use the block more. Using the return block to create a custom reporter, this becomes much simpler:
+This works, but it's pretty, and will only get worse as you use the block more. Using the return block to create a custom reporter, this becomes much simpler:
 
 <img src={require('./assets/repeat-return.png').default} style={{height: '410px'}} />
 
